@@ -149,7 +149,7 @@ under the License.
     <dependency>
       <groupId>com.ibm.icu</groupId>
       <artifactId>icu4j</artifactId>
-      <version>3.8</version>
+      <version>64.2</version>
     </dependency>
     <dependency>
       <groupId>xml-apis</groupId>
