@@ -26,7 +26,7 @@ under the License.
     <groupId>org.apache.maven.doxia</groupId>
     <artifactId>doxia-tools</artifactId>
     <version>33</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <artifactId>doxia-converter</artifactId>
@@ -162,7 +162,7 @@ under the License.
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
-      <version>2.6</version>
+      <version>20030203.000550</version>
     </dependency>
     <dependency>
       <groupId>com.ibm.icu</groupId>
