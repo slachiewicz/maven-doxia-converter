@@ -26,7 +26,7 @@ under the License.
     <groupId>org.apache.maven.doxia</groupId>
     <artifactId>doxia-tools</artifactId>
     <version>34</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>doxia-converter</artifactId>
@@ -178,7 +178,7 @@ under the License.
     <dependency>
       <groupId>com.ibm.icu</groupId>
       <artifactId>icu4j</artifactId>
-      <version>67.1</version>
+      <version>68.1</version>
     </dependency>
 
     <!-- Plexus -->
